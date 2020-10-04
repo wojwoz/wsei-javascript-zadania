@@ -14,6 +14,6 @@ console.log(5 * 2);
 
 console.log("hello world");// - poprawne
 console.log(hello world); // błędny zapis 
-//console.log("Hello World); // błędny zapis
+console.log("Hello World); // błędny zapis
 
 
